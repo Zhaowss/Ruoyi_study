@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Dec 27 18:55:46 CST 2023
+#Mon May 27 23:03:41 CST 2024
 jackson-parent-2.12.pom>central=
+jackson-parent-2.12.pom>public=

@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Dec 27 18:55:48 CST 2023
+#Mon May 27 23:03:42 CST 2024
 jersey-bom-2.33.pom>central=
+jersey-bom-2.33.pom>public=
