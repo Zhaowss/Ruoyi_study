@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 27 23:28:01 CST 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1716823681818
+@default-public-https\://maven.aliyun.com/repository/public/.lastUpdated=1716823681702
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact com.vladsch.flexmark\:flexmark-ext-typographic\:pom\:0.42.14 from/to public (https\://maven.aliyun.com/repository/public)\: C\:\\Users\\zws\\.m2\\repository\\com\\vladsch\\flexmark\\flexmark-ext-typographic\\0.42.14\\flexmark-ext-typographic-0.42.14.pom.9045928571752050149.tmp -> C\:\\Users\\zws\\.m2\\repository\\com\\vladsch\\flexmark\\flexmark-ext-typographic\\0.42.14\\flexmark-ext-typographic-0.42.14.pom
